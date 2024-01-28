@@ -1,0 +1,2 @@
+tInfo:
+#   print(studentInfo[i])
