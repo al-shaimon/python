@@ -1,2 +1,0 @@
-tInfo:
-#   print(studentInfo[i])
